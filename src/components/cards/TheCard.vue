@@ -31,7 +31,7 @@ export default {
 
 <style scoped>
 img {
-    width: 200px;
+    width: 175px;
 }
 
 .animate-opacity {

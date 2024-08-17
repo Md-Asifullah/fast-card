@@ -66,6 +66,9 @@ export default {
 </script>
 
 <style scoped>
+p{
+    font-size: 14px;
+}
 h2 {
     text-align: center;
 }
@@ -97,10 +100,10 @@ dialog {
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
     position: fixed;
-    top: 9vh;
-    height: 82vh;
-    left: 12.5vw;
-    width: 75vw;
+    top: 6vh;
+    height: 88vh;
+    left: 10vw;
+    width: 80vw;
     background-color: #012c17e5;
     z-index: 10005;
     overflow: hidden;

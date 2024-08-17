@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-4"></div>
             <div class="col-4">
-                <img class="mt-2" :src="logoImgSrc" alt="" />
+                <img class="mt-2 logo" :src="logoImgSrc" alt="" />
             </div>
             <div class="col-4 text-end">
                 <button
@@ -123,7 +123,7 @@
         <div class="row">
             <div class="col">
                 <Transition>
-                    <div class="btn-group mt-3" v-if="showControlsPanel">
+                    <div class="btn-group mt-1" v-if="showControlsPanel">
                         <button
                             type="button"
                             class="btn btn-light btn-lg"
@@ -175,7 +175,7 @@
                         </button>
                     </div> </Transition
                 ><br />
-                <p class="mt-3">
+                <p class="mt-1">
                     Fast Card version 1.3. A fun project developed by
                     <a target="_blank" class="creditLink" href="https://artisanasif.com/">Asif</a>
                 </p>
@@ -782,6 +782,9 @@ export default {
 body {
     background-color: #08683a;
 }
+.logo{
+    width: 350px;
+}
 .round-text {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
@@ -789,7 +792,7 @@ body {
 .controls {
     background-color: #ad8816;
     color: #fff;
-    height: 150px;
+    height: 120px;
     display: flex;
     align-items: center; /* Center vertically */
     justify-content: center; /* Center horizontally */
