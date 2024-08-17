@@ -1,4 +1,4 @@
-# 1_card_v_2
+# Fast Card
 
 ## Project setup
 ```
