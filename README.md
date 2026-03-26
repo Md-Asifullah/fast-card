@@ -11,13 +11,12 @@ Check it out live 👉 **[Fast Card Game](https://fastcard.netlify.app/)**
 - 🎮 **Interactive Card Game Experience** – Play against a computer opponent in a complete end-to-end gameplay loop.
 - 🃏 **Random Card Draws** – Every round deals fresh cards from a standard deck for unpredictable gameplay.
 - 💰 **Strategic Bidding System** – Increase, decrease, show, fold, or go all-in depending on your confidence.
-- 🤖 **Computer AI Logic** – The opponent uses confidence-based bidding logic to simulate strategic play.
+- 🤖 **Confidence-Based Opponent Strategy** – The opponent uses confidence-based bidding logic to simulate strategic play.
 - 🏆 **Win Condition Tracking** – Battle until one side captures all **16 chips**.
 - 📊 **Round Counter & Chip Tracking** – Keep an eye on the flow of the match and remaining chips.
 - 📜 **Built-In Rules Modal** – Players can instantly review the game rules without leaving the game screen.
 - ⚠️ **Special “Show Anyway” Mechanic** – Adds a fun, high-risk twist when the player is all-in.
 - ✨ **Fun Animations & UI Feedback** – Smooth transitions, helpful messages, and a playful card-game atmosphere.
-- 🌐 **Responsive Front-End Deployment** – Hosted online for quick and easy access.
 
 ---
 
@@ -78,8 +77,6 @@ src/
 
 ## 📸 Screenshots
 
-> Add your screenshots below. You can duplicate this section as many times as you want.
-
 ### Game Interface
 
 ![Game Interface](./src/assets/game-interface.png)
@@ -112,7 +109,7 @@ Want to run the project locally? Follow these steps:
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repository-url>
+   git clone https://github.com/Md-Asifullah/fast-card.git
    cd fast-card
    ```
 
@@ -196,7 +193,7 @@ Created with ❤️ by **[Md Asifullah](https://artisanasif.com/)**
 
 - **Live App:** [https://fastcard.netlify.app/](https://fastcard.netlify.app/)
 - **Portfolio:** [https://artisanasif.com/](https://artisanasif.com/)
-- **GitHub Repository:** `<add-your-github-repository-link-here>`
+- **GitHub Repository:** [https://github.com/Md-Asifullah/fast-card`](https://github.com/Md-Asifullah/fast-card)
 
 ---
 
